@@ -219,12 +219,8 @@
 ## 📈 GitHub Analytics & Performance Metrics
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Prasukj7-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasukj7-arch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=280" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasukj7-arch&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasukj7-arch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&card_width=280" alt="Top Languages" />
 </div>
 
 <div align="center">
