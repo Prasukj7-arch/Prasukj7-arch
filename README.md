@@ -5,27 +5,37 @@
 ██║░░╚██╗██║░░░██║░░░██╔══██║██║░░░██║██╔══██╗  ██╔═══╝░██╔══██╗██║░░██║██╔══╝░░██║██║░░░░░██╔══╝░░
 ╚██████╔╝██║░░░██║░░░██║░░██║╚██████╔╝██████╦╝  ██║░░░░░██║░░██║╚█████╔╝██║░░░░░██║███████╗███████╗
 ░╚═════╝░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═════╝░  ╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝╚══════╝╚══════╝
---><p align="center">
+-->
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Prasuk&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20imagination%20into%20reality%20through%20code&descAlignY=55&descAlign=center"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💻+Full-Stack+Developer;🧠+Machine+Learning+Engineer;🧬+Generative+AI+Developer;🚀+Tech+Explorer+%26+Innovator;📚+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🤖+Generative+AI+Engineer;🚀+Full+Stack+Developer;🧠+Machine+Learning+Wizard;📱+Mobile+App+Craftsman;💡+Problem+Solver+Extraordinaire" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prasukj7-arch&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Prasukj7-arch?label=Followers&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Prasukj7-arch?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub User's stars" />
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
         <h3>🌟 About Me</h3>
-        <p>🔥 Passionate developer specializing in <b>Computer Vision</b>, <b>Machine Learning</b>, and <b>Mobile Development</b></p>
-        <p>⚡ I love creating innovative solutions that bridge technology and real-world applications</p>
-        <p>🎯 Currently working on gesture-based AI applications</p>
-        <p>🌱 Always learning and exploring new frontiers in AI/ML</p>
+        <p>🔥 Passionate developer specializing in <b>Generative AI</b>, <b>Full Stack Development</b>, and <b>Machine Learning</b></p>
+        <p>⚡ I love creating cutting-edge AI solutions and scalable web applications</p>
+        <p>🎯 Currently building LLM-powered applications and full stack projects</p>
+        <p>🌱 Always exploring the latest in GenAI, RAG systems, and modern web technologies</p>
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=Prasukj7-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -46,42 +56,59 @@
 
 ### 🚀 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="Kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" title="C++" />
 </p>
 
-### 🤖 AI/ML & Computer Vision
+### 🤖 Generative AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" title="PyTorch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="OpenCV" title="OpenCV" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch" title="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="60" alt="OpenCV" title="OpenCV" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60" alt="Pandas" title="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60" alt="NumPy" title="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter" title="Jupyter" />
 </p>
 
-### 🛠️ Development Tools & Frameworks
+### 🌐 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" title="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask" title="Flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
-### 🌐 Web & Database
+### 🛠️ Development Tools & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask" title="Flask" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" title="SQLite" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="Android Studio" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" title="Vercel" />
+</p>
+
+### 🗄️ Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite" title="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="Supabase" title="Supabase" />
 </p>
 
 </div>
@@ -225,16 +252,16 @@ class DigitalArchitect:
         self.name = "Prasuk"
         self.role = "🚀 Full Stack AI Developer"
         self.current_focus = [
-            "🤖 Computer Vision Applications",
-            "🧠 Machine Learning Solutions", 
+            "🤖 Generative AI Applications",
+            "🚀 Full Stack Web Development", 
             "📱 Mobile App Development",
-            "⚡ Real-time AI Systems"
+            "⚡ LLM Integration & RAG Systems"
         ]
         self.learning_path = [
-            "🔥 Advanced Deep Learning",
-            "🌟 MLOps & Model Deployment",
-            "🎯 Edge AI & Mobile ML",
-            "🛠️ AI Ethics & Responsible AI"
+            "🔥 Advanced GenAI & LangChain",
+            "🌟 Cloud Architecture & DevOps",
+            "🎯 Vector Databases & Embeddings",
+            "🛠️ Microservices & API Design"
         ]
         self.superpowers = [
             "💡 Problem Solving",
@@ -244,10 +271,10 @@ class DigitalArchitect:
         ]
     
     def current_mission(self):
-        return "🌟 Building AI-powered solutions that make technology accessible to everyone!"
+        return "🌟 Building next-gen AI applications and scalable full-stack solutions!"
     
     def vision(self):
-        return "🚀 Bridging the gap between human interaction and artificial intelligence"
+        return "🚀 Democratizing AI through intuitive interfaces and robust backend systems"
     
     def collaborate(self):
         return "💬 Always open to exciting projects and meaningful collaborations!"
@@ -274,14 +301,14 @@ print(f"🤝 Collaboration: {dev.collaborate()}")
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/computer-vision-badge.svg" alt="Computer Vision Expert" width="80" height="80"/>
-      <br><b>🤖 CV Expert</b>
-      <br><sub>Gesture Recognition Specialist</sub>
+      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/genai-badge.svg" alt="GenAI Expert" width="80" height="80"/>
+      <br><b>🤖 GenAI Expert</b>
+      <br><sub>LLM Integration Specialist</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/mobile-dev-badge.svg" alt="Mobile Developer" width="80" height="80"/>
-      <br><b>📱 Mobile Craftsman</b>
-      <br><sub>Android App Developer</sub>
+      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/fullstack-badge.svg" alt="Full Stack Developer" width="80" height="80"/>
+      <br><b>🚀 Full Stack Dev</b>
+      <br><sub>End-to-End Solutions</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/ai-innovator-badge.svg" alt="AI Innovator" width="80" height="80"/>
