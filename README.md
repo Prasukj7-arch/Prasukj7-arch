@@ -8,11 +8,11 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Hi%20there!%20I'm%20Prasuk&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20imagination%20into%20reality%20through%20code&descAlignY=55&descAlign=center"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Prasuk&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20imagination%20into%20reality%20through%20code&descAlignY=55&descAlign=center"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🤖+Generative+AI+Engineer;🚀+Full+Stack+Developer;🧠+Machine+Learning+Wizard;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🤖+Generative+AI+Engineer;🚀+Full+Stack+Developer;🧠+Machine+Learning+Wizard;" alt="Typing SVG" />
 </div>
 
 <p align="center">
