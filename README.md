@@ -146,7 +146,7 @@
   <tr>
     <!-- Visual Text Project -->
     <td width="50%">
-      <h3 align="center">🤟 Visual Text - Sign Language Translator</h3>
+      <h3 align="center">Visual Text - Sign Language Translator</h3>
       <div align="center">
         <a href="https://github.com/Prasukj7-arch/Visual_text">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasukj7-arch&repo=Visual_text&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="Visual Text" />
@@ -156,17 +156,10 @@
         <img src="https://img.shields.io/badge/🤖-AI%20Powered-FF6B6B?style=for-the-badge" />
         <img src="https://img.shields.io/badge/🎯-Computer%20Vision-45B7D1?style=for-the-badge" />
       </p>
-      <p align="center">
-        <b>🔥 Revolutionary sign language to text translation</b><br>
-        ✨ <b>MediaPipe</b> hand detection & tracking<br>
-        🧠 <b>Random Forest</b> gesture classification<br>
-        ⚡ Real-time processing & text output<br>
-        🎨 Intuitive user interface
-      </p>
     </td>
     <!-- FlappyBall Project -->
     <td width="50%">
-      <h3 align="center">🎮 FlappyBall Gesture Control</h3>
+      <h3 align="center">FlappyBall Gesture Control</h3>
       <div align="center">
         <a href="https://github.com/Prasukj7-arch/FlappyBallGame">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasukj7-arch&repo=FlappyBallGame&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="FlappyBall Game" />
@@ -175,13 +168,6 @@
       <p align="center">
         <img src="https://img.shields.io/badge/🎮-Gaming-FF6B6B?style=for-the-badge" />
         <img src="https://img.shields.io/badge/🎯-Interactive-45B7D1?style=for-the-badge" />
-      </p>
-      <p align="center">
-        <b>🎯 Next-gen touchless gaming experience</b><br>
-        ✊ Fist gesture controls<br>
-        📹 Real-time recognition<br>
-        🎮 Touchless interaction<br>
-        🏆 Engaging gameplay
       </p>
     </td>
   </tr>
