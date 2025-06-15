@@ -12,14 +12,8 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🤖+Computer+Vision+Architect;🧠+Machine+Learning+Wizard;📱+Mobile+App+Craftsman;🚀+Innovation+Enthusiast;💡+Problem+Solver+Extraordinaire" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💻+Full-Stack+Developer;🧠+Machine+Learning+Engineer;🧬+Generative+AI+Developer;🚀+Tech+Explorer+%26+Innovator;📚+Lifelong+Learner" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prasukj7-arch&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Prasukj7-arch?label=Followers&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Prasukj7-arch?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub User's stars" />
-</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
