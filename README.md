@@ -55,7 +55,7 @@
 ## 🛠️ Tech Arsenal & Weapons of Choice
 <div align="center">
 
-### 🚀 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="60" />&nbsp;&nbsp;
@@ -66,60 +66,52 @@
   <img src="https://skillicons.dev/icons?i=c" height="60" />
 </p>
 
-### 🤖 Generative AI & Machine Learning
+### Generative AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="60" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60" />
 </p>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" />
 </p>
 
 ### 🌐 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="60" />
 </p>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="60" />&nbsp;&nbsp;
 </p>
 
-### 🛠️ Development Tools & Cloud
+### 🛠️ Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="60" />
 </p>
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="60" />
 </p>
 
 ### 🗄️ Databases & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" />
 </p>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=supabase" height="60" />
 </p>
 
