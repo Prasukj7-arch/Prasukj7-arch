@@ -57,16 +57,20 @@
 <div align="center">
 
 ### 🚀 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="Kotlin" title="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" title="C++" />
-</p>
+
+  <p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=python" height="60" style="margin: 6px;" />
+    <img src="https://skillicons.dev/icons?i=kotlin" height="60" style="margin: 6px;" />
+    <img src="https://skillicons.dev/icons?i=html" height="60" style="margin: 6px;" />
+    <img src="https://skillicons.dev/icons?i=css" height="60" style="margin: 6px;" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" style="margin: 6px;" />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" style="margin: 6px;" />
+  </p>
+
+  <p style="text-align: left; margin-left: 10%;">
+    <img src="https://skillicons.dev/icons?i=java" height="60" style="margin: 6px;" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" style="margin: 6px;" />
+  </p>
 
 ### 🤖 Generative AI & Machine Learning
 <p>
