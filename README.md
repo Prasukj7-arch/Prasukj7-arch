@@ -54,6 +54,8 @@
 
 ## 🛠️ Tech Arsenal & Weapons of Choice
 
+## 🛠️ Tech Arsenal & Weapons of Choice
+
 <div style="width: 100%; display: flex; justify-content: center;">
   <table style="width: 100%; max-width: 1200px; border-collapse: collapse;">
     <!-- First Row -->
@@ -81,7 +83,6 @@
         </p>
       </td>
     </tr>
-
     <!-- Second Row -->
     <tr>
       <td style="text-align: center; width: 50%; padding: 20px;">
@@ -110,7 +111,6 @@
         </p>
       </td>
     </tr>
-
     <!-- Third Row -->
     <tr>
       <td colspan="2" style="text-align: center; padding: 20px;">
