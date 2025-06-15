@@ -55,7 +55,7 @@
 ## 🛠️ Tech Arsenal & Weapons of Choice
 
 <div align="center">
-  <table>
+  <table width="100%">
     <!-- First Row -->
     <tr>
       <td align="center" width="50%">
