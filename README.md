@@ -197,54 +197,52 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🎯 Current Mission & Vision
-
-<div align="center">
+# 👨‍💻 Digital Architect: Prasuk
 
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 class DigitalArchitect:
-    def __init__(self):
-        self.name = "Prasuk"
-        self.role = "🚀 Full Stack AI Developer"
-        self.current_focus = [
-            "🤖 Generative AI Applications",
-            "🚀 Full Stack Web Development", 
-            "📱 Mobile App Development",
-            "⚡ LLM Integration & RAG Systems"
-        ]
-        self.learning_path = [
-            "🔥 Advanced GenAI & LangChain",
-            "🌟 Cloud Architecture & DevOps",
-            "🎯 Vector Databases & Embeddings",
-            "🛠️ Microservices & API Design"
-        ]
-        self.superpowers = [
-            "💡 Problem Solving",
-            "🎨 Creative Coding", 
-            "🔍 Tech Innovation",
-            "🤝 Collaborative Spirit"
-        ]
-    
-    def current_mission(self):
-        return "🌟 Building next-gen AI applications and scalable full-stack solutions!"
-    
-    def vision(self):
-        return "🚀 Democratizing AI through intuitive interfaces and robust backend systems"
-    
-    def collaborate(self):
+    role = "🚀 Full Stack AI Developer"
+
+    current_focus = [
+        "🤖 Generative AI Applications",
+        "🚀 Full Stack Web Development", 
+        "📱 Mobile App Development",
+        "⚡ LLM Integration & RAG Systems"
+    ]
+
+    learning_path = [
+        "🔥 Advanced GenAI & LangChain",
+        "🌩️ Cloud Architecture & DevOps",
+        "🎯 Vector Databases & Embeddings",
+        "🛠️ Microservices & API Design"
+    ]
+
+    superpowers = [
+        "💡 Problem Solving",
+        "🎨 Creative Coding", 
+        "🔍 Tech Innovation",
+        "🤝 Collaborative Spirit"
+    ]
+
+    @staticmethod
+    def current_mission():
+        return "🌟 Building next-gen AI apps & scalable full-stack solutions."
+
+    @staticmethod
+    def vision():
+        return "🚀 Making AI accessible through intuitive UX & powerful backend systems."
+
+    @staticmethod
+    def collaborate():
         return "💬 Always open to exciting projects and meaningful collaborations!"
 
-# Initialize the digital architect
-dev = DigitalArchitect()
-print(f"🎯 Mission: {dev.current_mission()}")
-print(f"🔮 Vision: {dev.vision()}")
-print(f"🤝 Collaboration: {dev.collaborate()}")
-```
 
-</div>
+# 🚀 Outputs
+print("🎯 Mission:", DigitalArchitect.current_mission())
+print("🔮 Vision:", DigitalArchitect.vision())
+print("🤝 Collaboration:", DigitalArchitect.collaborate())
+
+```
 
 <br>
 
