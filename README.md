@@ -77,6 +77,9 @@
           <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
         </p>
+        <p>
+           <img src="https://skillicons.dev/icons?i=api" height="60" />
+        </p>
       </td>
     </tr>
     <!-- Second Row -->
