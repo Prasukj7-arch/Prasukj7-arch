@@ -287,9 +287,10 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&text=🌈+%22Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad.%22&fontColor=ffffff&fontSize=20&desc=—+Cory+House&descSize=16&descAlign=50&descAlignY=75" 
     style="width: 100%; height: auto;" 
-    alt="Footer Wave with Quote"
+    alt="Prasuk Footer Quote"
   />
 </p>
+
 
 ---
 <div align="center">
