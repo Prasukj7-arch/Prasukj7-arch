@@ -53,64 +53,82 @@
 </div>
 
 ## 🛠️ Tech Arsenal & Weapons of Choice
+
 <div align="center">
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-</p>
-
-### Generative AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
-</p>
-
-
-
-### Full Stack Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="60" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" height="60" />&nbsp;&nbsp;
-</p>
-
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" />
-</p>
-
-### Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" />
-</p>
-
+  <table>
+    <!-- First Row -->
+    <tr>
+      <td align="center" width="50%">
+        <!-- Programming Languages -->
+        <h3>Programming Languages</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=python" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=html" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=js" height="60" />
+        </p>
+        <p>
+          <img src="https://skillicons.dev/icons?i=java" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=c" height="60" />
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <!-- Generative AI & Machine Learning -->
+        <h3>Generative AI & Machine Learning</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
+        </p>
+      </td>
+    </tr>
+    <!-- Second Row -->
+    <tr>
+      <td align="center" width="50%">
+        <!-- Full Stack Development -->
+        <h3>Full Stack Development</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=nextjs" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=nodejs" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=express" height="60" />
+        </p>
+        <p>
+          <img src="https://skillicons.dev/icons?i=flask" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=fastapi" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=django" height="60" />&nbsp;&nbsp;
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <!-- Development Tools -->
+        <h3>Development Tools</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=vscode" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=git" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=github" height="60" />
+        </p>
+        <p>
+          <img src="https://skillicons.dev/icons?i=gcp" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=vercel" height="60" />
+        </p>
+      </td>
+    </tr>
+    <!-- Third Row -->
+    <tr>
+      <td align="center" colspan="2">
+        <!-- Databases & Backend -->
+        <h3>Databases & Backend</h3>
+        <p>
+          <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=postgres" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=sqlite" height="60" />
+        </p>
+        <p>
+          <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=supabase" height="60" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-
 <br>
 
 <div align="center">
