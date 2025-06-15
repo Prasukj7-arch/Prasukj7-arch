@@ -255,39 +255,31 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
 
 <div align="center">
 
+<!-- Social badges -->
 <p>
-  <a href="https://github.com/Prasukj7-arch">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=F85D7F" alt="GitHub" />
+  <a href="https://github.com/Prasukj7-arch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=F85D7F" alt="GitHub Badge" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=FF6B6B" alt="Email" />
+  <a href="mailto:pjain7@gitam.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email Badge" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=4ECDC4" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4" alt="LinkedIn Badge" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0D1117&labelColor=45B7D1" alt="Twitter" />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white&labelColor=45B7D1" alt="Twitter Badge" />
   </a>
 </p>
 
-<h3>🌈 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+<!-- Inspirational quote -->
+<h3><i>🌈 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></h3>
 
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" alt="Typing SVG" />
+
+<!-- Waving animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=5000&pause=1000&color=F85D7F&center=true&vCenter=true&width=1000&lines=🌈+%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+—+Cory+House" 
-    style="width: 100%; height: auto;" 
-    alt="Code Quote Typing SVG" 
-  />
-</p>
-
 
 ---
 
