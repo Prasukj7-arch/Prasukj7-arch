@@ -79,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" />
 </p>
 
-### 🌐 Full Stack Development
+### Full Stack Development
 <p>
   <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" />&nbsp;&nbsp;
@@ -92,19 +92,18 @@
   <img src="https://skillicons.dev/icons?i=django" height="60" />&nbsp;&nbsp;
 </p>
 
-### 🛠️ Development Tools
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="60" />
 </p>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=gcp" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="60" />
 </p>
 
-### 🗄️ Databases & Backend
+### Databases & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="60" />&nbsp;&nbsp;
@@ -116,7 +115,6 @@
 </p>
 
 </div>
-
 
 <br>
 
