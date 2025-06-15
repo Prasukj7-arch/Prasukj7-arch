@@ -280,16 +280,14 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
-<div align="center">
-
-  <h3><i>🌈 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></h3>
-
+<p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" 
-    alt="Footer Typing SVG" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=5000&pause=1000&color=F85D7F&center=true&vCenter=true&width=1000&lines=🌈+%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+—+Cory+House" 
+    style="width: 100%; height: auto;" 
+    alt="Code Quote Typing SVG" 
   />
+</p>
 
-</div>
 
 ---
 
