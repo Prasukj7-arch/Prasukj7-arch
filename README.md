@@ -254,34 +254,14 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-<!-- Social badges -->
-<p style="margin-bottom: 20px;">
-  <a href="https://github.com/Prasukj7-arch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=F85D7F" alt="GitHub Badge" />
-  </a>
-  <a href="mailto:pjain7@gitam.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email Badge" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white&labelColor=45B7D1" alt="Twitter Badge" />
-  </a>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Prasuk&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20imagination%20into%20reality%20through%20code&descAlignY=55&descAlign=center" 
+    style="width: 100%; height: auto;" 
+    alt="Prasuk Header"
+  />
 </p>
 
-<!-- Quote with subtle emphasis -->
-<blockquote style="font-size: 1.1rem; font-style: italic; color: #CCCCCC; margin: 10px 0 30px;">
-🌈 "Code is like humor. When you have to explain it, it's bad." — Cory House
-</blockquote>
-
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" alt="Typing SVG" />
 
 <!-- Decorative Footer Wave -->
 <br><br>
