@@ -58,18 +58,17 @@
 
 ### 🚀 Programming Languages
 
-  <p style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" height="60" style="margin: 6px;" />
-    <img src="https://skillicons.dev/icons?i=kotlin" height="60" style="margin: 6px;" />
-    <img src="https://skillicons.dev/icons?i=html" height="60" style="margin: 6px;" />
-    <img src="https://skillicons.dev/icons?i=css" height="60" style="margin: 6px;" />
-    <img src="https://skillicons.dev/icons?i=js" height="60" style="margin: 6px;" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" style="margin: 6px;" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python" height="60" />
+    <img src="https://skillicons.dev/icons?i=kotlin" height="60" />
+    <img src="https://skillicons.dev/icons?i=html" height="60" />
+    <img src="https://skillicons.dev/icons?i=css" height="60" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" />
+    <img src="https://skillicons.dev/icons?i=ts" height="60" />
   </p>
-
-  <p style="text-align: left; margin-left: 10%;">
-    <img src="https://skillicons.dev/icons?i=java" height="60" style="margin: 6px;" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="60" style="margin: 6px;" />
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=java" height="60" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" />
   </p>
 
 ### 🤖 Generative AI & Machine Learning
