@@ -256,20 +256,20 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
 <div align="center">
 
 <!-- Social badges -->
-<p>
-  <a href="https://github.com/Prasukj7-arch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=F85D7F" alt="GitHub Badge" />
-  </a>
-  <a href="mailto:pjain7@gitam.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email Badge" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white&labelColor=45B7D1" alt="Twitter Badge" />
-  </a>
-</p>
+ <p style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <a href="https://github.com/Prasukj7-arch" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=F85D7F" alt="GitHub Badge" />
+    </a>
+    <a href="mailto:pjain7@gitam.in" target="_blank">
+      <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B" alt="Email Badge" />
+    </a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4ECDC4" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://twitter.com/yourhandle" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white&labelColor=45B7D1" alt="Twitter Badge" />
+    </a>
+  </p>
 
 <!-- Waving footer with embedded message -->
 <p align="center">
