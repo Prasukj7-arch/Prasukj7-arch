@@ -89,14 +89,13 @@
         <h3>Full Stack Development</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=nextjs" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=nodejs" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=express" height="60" />
         </p>
         <p>
           <img src="https://skillicons.dev/icons?i=flask" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=fastapi" height="60" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=django" height="60" />&nbsp;&nbsp;
+          <img src="https://skillicons.dev/icons?i=django" height="60" />
         </p>
       </td>
       <td align="center" width="50%">
