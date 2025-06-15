@@ -32,10 +32,12 @@
     <tr>
       <td align="center" width="50%">
         <h3 align="center">🌟 About Me</h3>
-        <p> A lifelong learner who thrives on solving challenges and creating meaningful experiences.</p>
-        <p> Collaborative spirit—believe great things happen when creative minds come together.</p>
-        <p> Currently building LLM-powered applications and full stack projects</p>
-        <p> Always exploring the latest in GenAI, RAG systems, and modern web technologies</p>
+        <ul align="left">
+          <li>A lifelong learner who thrives on solving challenges and creating meaningful experiences.</li>
+          <li>Collaborative spirit—believe great things happen when creative minds come together.</li>
+          <li>Currently building LLM-powered applications and full stack projects.</li>
+          <li>Always exploring the latest in GenAI, RAG systems, and modern web technologies.</li>
+        </ul>
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=Prasukj7-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
