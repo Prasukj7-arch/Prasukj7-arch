@@ -57,8 +57,7 @@
 <div align="center">
 
 ### 🚀 Programming Languages
-
-  <p align="center">
+   <p>
     <img src="https://skillicons.dev/icons?i=python" height="60" />
     <img src="https://skillicons.dev/icons?i=kotlin" height="60" />
     <img src="https://skillicons.dev/icons?i=html" height="60" />
@@ -66,7 +65,8 @@
     <img src="https://skillicons.dev/icons?i=js" height="60" />
     <img src="https://skillicons.dev/icons?i=ts" height="60" />
   </p>
-  <p align="left">
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=java" height="60" />
     <img src="https://skillicons.dev/icons?i=cpp" height="60" />
   </p>
