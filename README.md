@@ -55,10 +55,9 @@
 ## 🛠️ Tech Arsenal & Weapons of Choice
 <div align="center">
   <table width="100%">
-    <!-- First Row -->
+    <!-- First Row with 3 columns -->
     <tr>
-      <td align="center" width="50%">
-        <!-- Programming Languages -->
+      <td align="center" width="33%">
         <h3>Programming Languages</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=python" height="60" />&nbsp;&nbsp;
@@ -70,22 +69,17 @@
           <img src="https://skillicons.dev/icons?i=c" height="60" />
         </p>
       </td>
-      <td align="center" width="50%">
-        <!-- Generative AI & Machine Learning -->
+      <td align="center" width="33%">
         <h3>Generative AI & ML</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
         </p>
         <p>
-           <img src="https://skillicons.dev/icons?i=api" height="60" />
+          <img src="https://skillicons.dev/icons?i=api" height="60" />
         </p>
       </td>
-    </tr>
-    <!-- Second Row -->
-    <tr>
-      <td align="center" width="50%">
-        <!-- Full Stack Development -->
+      <td align="center" width="33%">
         <h3>Full Stack Development</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
@@ -98,8 +92,11 @@
           <img src="https://skillicons.dev/icons?i=django" height="60" />
         </p>
       </td>
+    </tr>
+
+    <!-- Second Row with 2 columns -->
+    <tr>
       <td align="center" width="50%">
-        <!-- Development Tools -->
         <h3>Development Tools</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=vscode" height="60" />&nbsp;&nbsp;
@@ -111,11 +108,7 @@
           <img src="https://skillicons.dev/icons?i=vercel" height="60" />
         </p>
       </td>
-    </tr>
-    <!-- Third Row -->
-    <tr>
-      <td align="center" colspan="2">
-        <!-- Databases & Backend -->
+      <td align="center" width="50%">
         <h3>Databases & Backend</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;
@@ -126,18 +119,10 @@
           <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=supabase" height="60" />
         </p>
-        <ul align="left">
-          <li>A lifelong learner who thrives on solving challenges and creating meaningful experiences.</li>
-          <li>Collaborative spirit—believe great things happen when creative minds come together.</li>
-          <li>Currently building LLM-powered applications and full stack projects.</li>
-          <li>Always exploring the latest in GenAI, RAG systems, and modern web technologies.</li>
-        </ul>
       </td>
     </tr>
   </table>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
