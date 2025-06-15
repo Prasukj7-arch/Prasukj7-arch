@@ -122,10 +122,7 @@
           <img src="https://skillicons.dev/icons?i=supabase" height="60" />
         </p>
         <ul align="left">
-          <li>A lifelong learner who thrives on solving challenges and creating meaningful experiences.</li>
-          <li>Collaborative spirit—believe great things happen when creative minds come together.</li>
-          <li>Currently building LLM-powered applications and full stack projects.</li>
-          <li>Always exploring the latest in GenAI, RAG systems, and modern web technologies.</li>
+          <li>I’ve chosen these tools based on their widespread adoption and consistent ranking in developer and research communities. Python, for instance, has topped the TIOBE and Stack Overflow Developer Surveys due to its dominance in AI and data science. PyTorch is preferred in academic research, being cited in thousands of AI papers, making it a go-to for cutting-edge model development. React is the most used front-end framework according to the State of JS survey. GitHub remains the world’s largest code hosting platform, central to open-source collaboration. TensorFlow is backed by Google and widely used in industry-grade AI solutions. MySQL remains a top database choice, powering a significant portion of the web.</li>
         </ul>
       </td>
     </tr>
