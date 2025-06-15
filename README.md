@@ -274,20 +274,24 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
 <!-- Inspirational quote -->
 <h3><i>🌈 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></h3>
 
-<!-- Animated typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" alt="Typing SVG" />
-
+<!-- Animated typing text just above the wave -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=24&desc=Let%27s+build+the+future+together+🚀&descSize=16&descAlign=50&descAlignY=75" 
-    alt="Footer Wave with Text" 
-    style="width: 100%; height: auto;" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" 
+    alt="Typing SVG" 
   />
 </p>
 
+<!-- Waving footer with embedded message -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&text=🌈+%22Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad.%22&fontColor=ffffff&fontSize=20&desc=—+Cory+House&descSize=16&descAlign=50&descAlignY=75" 
+    style="width: 100%; height: auto;" 
+    alt="Footer Wave with Quote"
+  />
+</p>
 
 ---
-
 <div align="center">
   <sub>🌟 Crafted with ❤️ and ☕ by <a href="https://github.com/Prasukj7-arch">Prasukj7-arch</a> | Building tomorrow's solutions today! 🚀</sub>
 </div>
