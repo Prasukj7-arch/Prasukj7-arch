@@ -259,7 +259,9 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
     alt="Prasuk Footer Quote"
   />
 </p>
+
 ---
+
 <div align="center">
   <sub>🌟 Crafted with ❤️ and ☕ by <a href="https://github.com/Prasukj7-arch">Prasukj7-arch</a> | Building tomorrow's solutions today! 🚀</sub>
 </div>
