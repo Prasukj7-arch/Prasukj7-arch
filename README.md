@@ -55,6 +55,14 @@
 ## 🛠️ Tech Arsenal & Weapons of Choice
 <div align="center">
   <table width="100%">
+    <!-- Intro Row -->
+    <tr>
+      <td align="left" colspan="2">
+        <ul>
+          <li>I’ve chosen these tools based on their widespread adoption and consistent ranking in developer and research communities. Python, for instance, has topped the TIOBE and Stack Overflow Developer Surveys due to its dominance in AI and data science. PyTorch is preferred in academic research, being cited in thousands of AI papers, making it a go-to for cutting-edge model development. React is the most used front-end framework according to the State of JS survey. GitHub remains the world’s largest code hosting platform, central to open-source collaboration. TensorFlow is backed by Google and widely used in industry-grade AI solutions. MySQL remains a top database choice, powering a significant portion of the web.</li>
+        </ul>
+      </td>
+    </tr>
     <!-- First Row -->
     <tr>
       <td align="center" width="50%">
@@ -121,13 +129,11 @@
           <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=supabase" height="60" />
         </p>
-        <ul align="left">
-          <li>I’ve chosen these tools based on their widespread adoption and consistent ranking in developer and research communities. Python, for instance, has topped the TIOBE and Stack Overflow Developer Surveys due to its dominance in AI and data science. PyTorch is preferred in academic research, being cited in thousands of AI papers, making it a go-to for cutting-edge model development. React is the most used front-end framework according to the State of JS survey. GitHub remains the world’s largest code hosting platform, central to open-source collaboration. TensorFlow is backed by Google and widely used in industry-grade AI solutions. MySQL remains a top database choice, powering a significant portion of the web.</li>
-        </ul>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
