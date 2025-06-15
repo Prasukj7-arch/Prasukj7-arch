@@ -6,20 +6,28 @@
 ╚██████╔╝██║░░░██║░░░██║░░██║╚██████╔╝██████╦╝  ██║░░░░░██║░░██║╚█████╔╝██║░░░░░██║███████╗███████╗
 ░╚═════╝░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═════╝░  ╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝╚══════╝╚══════╝
 -->
-
+<!-- 🎉 Waving Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20Prasuk&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20imagination%20into%20reality%20through%20code&descAlignY=55&descAlign=center"/>
 </p>
 
-<div align="center">
+<!-- ✍️ Typing Role Section -->
+<div align="center" style="margin-top: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=💻+Full-Stack+Developer;🧠+Machine+Learning+Engineer;🧬+Generative+AI+Developer;🚀+Tech+Explorer+%26+Innovator;📚+Lifelong+Learner" alt="Typing SVG" />
 </div>
 
+<!-- ✨ Animated Divider -->
 <br/>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
 </div>
+
+<!-- 👋 Personal Greeting -->
+<br/>
+<div align="center">
+  <h3>Welcome to my digital playground! Here you'll find ideas turned into code, and curiosity turned into projects.</h3>
+</div>
+
 
 <br>
 
