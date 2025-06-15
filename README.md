@@ -55,9 +55,9 @@
 ## 🛠️ Tech Arsenal & Weapons of Choice
 <div align="center">
   <table width="100%">
-    <!-- First Row with 3 columns -->
+    <!-- First Row -->
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <h3>Programming Languages</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=python" height="60" />&nbsp;&nbsp;
@@ -69,7 +69,7 @@
           <img src="https://skillicons.dev/icons?i=c" height="60" />
         </p>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="50%">
         <h3>Generative AI & ML</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;
@@ -79,7 +79,10 @@
           <img src="https://skillicons.dev/icons?i=api" height="60" />
         </p>
       </td>
-      <td align="center" width="33%">
+    </tr>
+    <!-- Second Row -->
+    <tr>
+      <td align="center" width="50%">
         <h3>Full Stack Development</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
@@ -92,9 +95,6 @@
           <img src="https://skillicons.dev/icons?i=django" height="60" />
         </p>
       </td>
-    </tr>
-    <!-- Second Row with 2 columns -->
-    <tr>
       <td align="center" width="50%">
         <h3>Development Tools</h3>
         <p>
@@ -107,7 +107,10 @@
           <img src="https://skillicons.dev/icons?i=vercel" height="60" />
         </p>
       </td>
-      <td align="center" width="50%">
+    </tr>
+    <!-- Third Row -->
+    <tr>
+      <td align="center" colspan="2">
         <h3>Databases & Backend</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;
@@ -118,6 +121,12 @@
           <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=supabase" height="60" />
         </p>
+        <ul align="left">
+          <li>A lifelong learner who thrives on solving challenges and creating meaningful experiences.</li>
+          <li>Collaborative spirit—believe great things happen when creative minds come together.</li>
+          <li>Currently building LLM-powered applications and full stack projects.</li>
+          <li>Always exploring the latest in GenAI, RAG systems, and modern web technologies.</li>
+        </ul>
       </td>
     </tr>
   </table>
