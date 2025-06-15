@@ -79,6 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" />
 </p>
 
+
 ### Full Stack Development
 <p>
   <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
