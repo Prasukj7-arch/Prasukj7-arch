@@ -281,14 +281,16 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" alt="Footer Typing SVG" />
+
+  <h3><i>🌈 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></h3>
+
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" 
+    alt="Footer Typing SVG" 
+  />
+
 </div>
 
-
-<!-- Decorative Footer Wave -->
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
 ---
 
 <div align="center">
