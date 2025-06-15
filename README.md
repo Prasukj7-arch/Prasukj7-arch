@@ -53,11 +53,12 @@
 </div>
 
 ## 🛠️ Tech Arsenal & Weapons of Choice
-  <table width="100%">
+
+<div style="width: 100%; display: flex; justify-content: center;">
+  <table style="width: 100%; max-width: 1200px; border-collapse: collapse;">
     <!-- First Row -->
     <tr>
-      <td align="center" width="50%">
-        <!-- Programming Languages -->
+      <td style="text-align: center; width: 50%; padding: 20px;">
         <h3>Programming Languages</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=python" height="60" />&nbsp;&nbsp;
@@ -69,22 +70,21 @@
           <img src="https://skillicons.dev/icons?i=c" height="60" />
         </p>
       </td>
-      <td align="center" width="50%">
-        <!-- Generative AI & Machine Learning -->
+      <td style="text-align: center; width: 50%; padding: 20px;">
         <h3>Generative AI & ML</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
         </p>
         <p>
-           <img src="https://skillicons.dev/icons?i=api" height="60" />
+          <img src="https://skillicons.dev/icons?i=api" height="60" />
         </p>
       </td>
     </tr>
+
     <!-- Second Row -->
     <tr>
-      <td align="center" width="50%">
-        <!-- Full Stack Development -->
+      <td style="text-align: center; width: 50%; padding: 20px;">
         <h3>Full Stack Development</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=react" height="60" />&nbsp;&nbsp;
@@ -97,8 +97,7 @@
           <img src="https://skillicons.dev/icons?i=django" height="60" />
         </p>
       </td>
-      <td align="center" width="50%">
-        <!-- Development Tools -->
+      <td style="text-align: center; width: 50%; padding: 20px;">
         <h3>Development Tools</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=vscode" height="60" />&nbsp;&nbsp;
@@ -111,10 +110,10 @@
         </p>
       </td>
     </tr>
+
     <!-- Third Row -->
     <tr>
-      <td align="center" colspan="2">
-        <!-- Databases & Backend -->
+      <td colspan="2" style="text-align: center; padding: 20px;">
         <h3>Databases & Backend</h3>
         <p>
           <img src="https://skillicons.dev/icons?i=mysql" height="60" />&nbsp;&nbsp;
@@ -128,10 +127,11 @@
       </td>
     </tr>
   </table>
+</div>
 
 <br>
 
-<div align="center">
+<div style="width: 100%;">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
