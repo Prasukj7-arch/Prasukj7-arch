@@ -163,9 +163,8 @@
         ⚡ Real-time processing & text output<br>
         🎨 Intuitive user interface
       </p>
-  </tr>
-  <tr>
-    <td width="50%">
+    </td>
+      <td width="50%">
       <h3 align="center">🎮 FlappyBall Gesture Control</h3>
       <div align="center">
         <a href="https://github.com/Prasukj7-arch/FlappyBallGame">
@@ -185,7 +184,10 @@
         🏆 Engaging gameplay
       </p>
     </td>
-    <td width="50%">
+    
+  </tr>
+  <tr>
+    <td width="100%">
       <h3 align="center">📊 Info Extraction AI</h3>
       <div align="center">
         <a href="https://github.com/Prasukj7-arch/Info-Extraction">
