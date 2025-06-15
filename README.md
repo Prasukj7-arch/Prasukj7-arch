@@ -142,8 +142,9 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
+    <!-- Visual Text Project -->
     <td width="50%">
       <h3 align="center">🤟 Visual Text - Sign Language Translator</h3>
       <div align="center">
@@ -164,7 +165,8 @@
         🎨 Intuitive user interface
       </p>
     </td>
-      <td width="50%">
+    <!-- FlappyBall Project -->
+    <td width="50%">
       <h3 align="center">🎮 FlappyBall Gesture Control</h3>
       <div align="center">
         <a href="https://github.com/Prasukj7-arch/FlappyBallGame">
@@ -184,34 +186,10 @@
         🏆 Engaging gameplay
       </p>
     </td>
-    
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3 align="center">📊 Info Extraction AI</h3>
-      <div align="center">
-        <a href="https://github.com/Prasukj7-arch/Info-Extraction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasukj7-arch&repo=Info-Extraction&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="Info Extraction" />
-        </a>
-      </div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🤖-AI%20Agent-FF6B6B?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/🔍-Web%20Search-4ECDC4?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/📈-Data%20Analysis-45B7D1?style=for-the-badge" />
-      </p>
-      <p align="center">
-        <b>🚀 Intelligent data extraction system</b><br>
-        📊 CSV & Google Sheets integration<br>
-        🔍 Automated web searches<br>
-        🎯 Entity-specific information<br>
-        📈 Data enrichment pipeline
-      </p>
-    </td>
   </tr>
 </table>
 
 </div>
-
 <br>
 
 <div align="center">
