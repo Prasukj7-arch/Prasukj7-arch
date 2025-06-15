@@ -269,13 +269,6 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
   </a>
 </p>
 
-### 💡 Open to:
-- 🚀 **Innovative AI/ML Projects**
-- 📱 **Mobile App Collaborations** 
-- 🤖 **Computer Vision Challenges**
-- 💬 **Tech Discussions & Mentoring**
-- ⚡ **Open Source Contributions**
-
 <h3>🌈 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 
 </div>
