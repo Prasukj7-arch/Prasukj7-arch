@@ -63,10 +63,10 @@
     <img src="https://skillicons.dev/icons?i=html" height="60" />
     <img src="https://skillicons.dev/icons?i=css" height="60" />
     <img src="https://skillicons.dev/icons?i=js" height="60" />
-    <img src="https://skillicons.dev/icons?i=ts" height="60" />
   </p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" height="60" />
     <img src="https://skillicons.dev/icons?i=java" height="60" />
     <img src="https://skillicons.dev/icons?i=cpp" height="60" />
   </p>
