@@ -250,50 +250,6 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🌟 Achievements & Milestones
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/genai-badge.svg" alt="GenAI Expert" width="80" height="80"/>
-      <br><b>🤖 GenAI Expert</b>
-      <br><sub>LLM Integration Specialist</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/fullstack-badge.svg" alt="Full Stack Developer" width="80" height="80"/>
-      <br><b>🚀 Full Stack Dev</b>
-      <br><sub>End-to-End Solutions</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/ai-innovator-badge.svg" alt="AI Innovator" width="80" height="80"/>
-      <br><b>🧠 AI Innovator</b>
-      <br><sub>ML Solution Architect</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.com/Prasukj7-arch/Prasukj7-arch/assets/placeholder/problem-solver-badge.svg" alt="Problem Solver" width="80" height="80"/>
-      <br><b>💡 Problem Solver</b>
-      <br><sub>Creative Technologist</sub>
-    </td>
-  </tr>
-</table>
-
-### 🏆 Quick Wins
-- ✨ **5+** Computer Vision projects with real-world applications
-- 🎯 **Real-time** gesture recognition systems
-- 📱 **Mobile-first** development approach
-- 🚀 **AI-powered** text extraction and analysis tools
-- 🌟 **Open-source** contributor and tech enthusiast
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
