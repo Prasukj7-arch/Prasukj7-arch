@@ -154,7 +154,6 @@
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/🤖-AI%20Powered-FF6B6B?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/⚡-Real%20Time-4ECDC4?style=for-the-badge" />
         <img src="https://img.shields.io/badge/🎯-Computer%20Vision-45B7D1?style=for-the-badge" />
       </p>
       <p align="center">
@@ -175,9 +174,7 @@
       </div>
       <p align="center">
         <img src="https://img.shields.io/badge/🎮-Gaming-FF6B6B?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/✋-Gesture%20Control-4ECDC4?style=for-the-badge" />
         <img src="https://img.shields.io/badge/🎯-Interactive-45B7D1?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/⚡-Real%20Time-4ECDC4?style=for-the-badge" />
       </p>
       <p align="center">
         <b>🎯 Next-gen touchless gaming experience</b><br>
