@@ -277,9 +277,14 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
 <!-- Animated typing effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" alt="Typing SVG" />
 
-<!-- Waving animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&text=Thanks+for+visiting!&fontColor=ffffff&fontSize=24&desc=Let%27s+build+the+future+together+🚀&descSize=16&descAlign=50&descAlignY=75" 
+    alt="Footer Wave with Text" 
+    style="width: 100%; height: auto;" 
+  />
+</p>
+
 
 ---
 
