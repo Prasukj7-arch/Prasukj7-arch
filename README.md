@@ -53,8 +53,6 @@
 </div>
 
 ## 🛠️ Tech Arsenal & Weapons of Choice
-
-## 🛠️ Tech Arsenal & Weapons of Choice
 <div align="center">
   <table width="100%">
     <!-- First Row -->
@@ -128,6 +126,12 @@
           <img src="https://skillicons.dev/icons?i=mongodb" height="60" />&nbsp;&nbsp;
           <img src="https://skillicons.dev/icons?i=supabase" height="60" />
         </p>
+        <ul align="left">
+          <li>A lifelong learner who thrives on solving challenges and creating meaningful experiences.</li>
+          <li>Collaborative spirit—believe great things happen when creative minds come together.</li>
+          <li>Currently building LLM-powered applications and full stack projects.</li>
+          <li>Always exploring the latest in GenAI, RAG systems, and modern web technologies.</li>
+        </ul>
       </td>
     </tr>
   </table>
