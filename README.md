@@ -93,7 +93,6 @@
         </p>
       </td>
     </tr>
-
     <!-- Second Row with 2 columns -->
     <tr>
       <td align="center" width="50%">
