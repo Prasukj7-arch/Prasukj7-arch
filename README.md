@@ -62,9 +62,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="60" />
 </p>
-<p align="left">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=c" height="60" />
 </p>
