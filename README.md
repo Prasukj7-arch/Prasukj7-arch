@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines= Generative+AI+Engineer;Full+Stack+Developer;Machine+Learning+Wizard;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=Generative+AI+Engineer;Full+Stack+Developer;Machine+Learning+Wizard;" alt="Typing SVG" />
 </div>
 
 <p align="center">
