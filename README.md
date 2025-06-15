@@ -271,17 +271,6 @@ print("🤝 Collaboration:", DigitalArchitect.collaborate())
   </a>
 </p>
 
-<!-- Inspirational quote -->
-<h3><i>🌈 "Code is like humor. When you have to explain it, it's bad." — Cory House</i></h3>
-
-<!-- Animated typing text just above the wave -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+digital+universe!+🌟;Let's+build+something+amazing+together!+🚀;The+future+is+written+in+code+💻;Keep+coding%2C+keep+innovating!+⚡" 
-    alt="Typing SVG" 
-  />
-</p>
-
 <!-- Waving footer with embedded message -->
 <p align="center">
   <img 
