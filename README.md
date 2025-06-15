@@ -163,27 +163,6 @@
         ⚡ Real-time processing & text output<br>
         🎨 Intuitive user interface
       </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏙️ Hyderabad City Guide</h3>
-      <div align="center">
-        <a href="https://github.com/Prasukj7-arch/Hyderabad-City">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prasukj7-arch&repo=Hyderabad-City&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="Hyderabad City" />
-        </a>
-      </div>
-      <p align="center">
-        <img src="https://img.shields.io/badge/📱-Mobile%20App-FF6B6B?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/🔥-Kotlin-4ECDC4?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/🌟-UI/UX-45B7D1?style=for-the-badge" />
-      </p>
-      <p align="center">
-        <b>🚀 Comprehensive city exploration app</b><br>
-        🛍️ Shopping centers & markets<br>
-        🏛️ Museums & cultural sites<br>
-        🍽️ Restaurant recommendations<br>
-        🎓 Educational institutions
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
